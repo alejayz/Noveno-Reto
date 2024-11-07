@@ -1,6 +1,5 @@
 # Noveno-Reto
 
-En esta ocasión debemos darle solución al reto número 9 de la clase de programación, el cual consiste en:
 
 **Punto 1**
 
