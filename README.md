@@ -175,14 +175,4 @@ if __name__ == "__main__":
 print(f"fiboRecursivo se demoró {timer} en correr")
 ```
 
-Punto 5
 
-Crear cuenta en stackoverflow y adjuntar imagen en el repo
-
-![StackOverflow cuenta](https://github.com/alejayz/Noveno-Reto/assets/124609988/b6c66fbe-3c03-4e37-bfd8-c440d090c25e)
-
-Punto 6
-
-Ir a linkedin y crear perfil. Dejar enlace en el repo.
-
-https://www.linkedin.com/in/yazney-alejandra-arenas-garrido-328643276 
